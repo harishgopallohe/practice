@@ -21,9 +21,6 @@ public class test {
 
 		System.out.println("hello");
 		
-		System.out.println("Bye");
-		
-		System.out.println("Hi");
 	}
 	
 }
